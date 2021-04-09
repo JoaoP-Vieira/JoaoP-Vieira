@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JoaoP-Vieira
+- 🏠 I'm from Brazil
+- 🌱 I’m currently learning Javascript and React
+- 📫 How to reach me: joaopedrovieiragodoy@gmail.com
