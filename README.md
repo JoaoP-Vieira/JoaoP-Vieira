@@ -17,5 +17,3 @@
   <img align="center" alt="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
-<p align="center" style="margin: 35px 0; font-size: 14px; color: #fff">Contact: joaopedrovieiragodoy@gmail.com</p>
