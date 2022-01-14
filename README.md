@@ -1,4 +1,21 @@
-- 👋 Hi, I’m @JoaoP-Vieira
-- 🏠 I'm from Brazil
-- 🌱 I’m currently learning Javascript and React
-- 📫 How to reach me: joaopedrovieiragodoy@gmail.com
+<h1 align="center">João Pedro Vieira</h1>
+
+<div align="center">
+  <a href="https://github.com/JoaoP-Vieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoP-Vieira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoP-Vieira&layout=compact&langs_count=7&theme=merko"/>
+</div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SASS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="PHP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+
+<p align="center" style="margin: 35px 0; font-size: 14px; color: #fff">Contact: joaopedrovieiragodoy@gmail.com</p>
