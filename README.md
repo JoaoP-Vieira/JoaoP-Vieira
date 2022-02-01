@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/JoaoP-Vieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoP-Vieira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoP-Vieira&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoP-Vieira&layout=compact&langs_count=7&theme=merko"/></a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -18,12 +18,13 @@
   <img align="center" alt="Linux" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: block" align="center"><br>
   <h2>Open-source cotributions</h2>
+  
   <p>Gentoo Linux: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/pt-br">
-    Copacabana website e documentação
+    Handbook translation to pt_BR 
   </a></p>
   <p>Projeto Pindorama: <a href="https://github.com/Projeto-Pindorama">
-    Copacabana website e documentação
+    Copacabana website
   </a></p>
 </div>
