@@ -17,3 +17,13 @@
   <img align="center" alt="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+
+<div style="display: inline_block" align="center"><br>
+  <h2>Open-source cotributions</h2>
+  <p>Gentoo Linux: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/pt-br">
+    Copacabana website e documentação
+  </a></p>
+  <p>Projeto Pindorama: <a href="https://github.com/Projeto-Pindorama">
+    Copacabana website e documentação
+  </a></p>
+</div>
