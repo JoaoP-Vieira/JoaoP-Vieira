@@ -1,5 +1,4 @@
 <h2>João Pedro Vieira</h2>
-<p>Full-Stack Developer</p>
 
 <p>Full-Stack .NET Developer with a strong background in building RESTful APIs, microservices, and modernizing legacy systems. Proven experience working in large-scale environments with .NET Core, C#, RabbitMQ, SQL Server, React, and Angular. Highly driven by complex problem-solving, software architecture best practices (DDD, TDD), and mentoring junior developers.</p>
 
