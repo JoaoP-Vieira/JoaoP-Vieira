@@ -1,15 +1,20 @@
-<h2>João Pedro Vieira</h1>
+<h2>João Pedro Vieira</h2>
 <p>Full-Stack Developer</p>
+
+<p>Full-Stack .NET Developer with a strong background in building RESTful APIs, microservices, and modernizing legacy systems. Proven experience working in large-scale environments with .NET Core, C#, RabbitMQ, SQL Server, React, and Angular. Highly driven by complex problem-solving, software architecture best practices (DDD, TDD), and mentoring junior developers.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="CSharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Sql Server" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Postgressql" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgressql/postgressql-original.svg">
+  <img align="center" alt="Postgresql" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="RabbitMq" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
   <img align="center" alt="Apache Kafka" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
   <img align="center" alt="MongoDB" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Redis" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Linux" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Docker" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Grafana" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Datadog" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
